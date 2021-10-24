@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+# Hi there 👋
 
 - 🔭 I’m currently working on ... Furhaus, a website for finding holiday homes for pets
 - 🌱 I’m currently learning ... Typescript
